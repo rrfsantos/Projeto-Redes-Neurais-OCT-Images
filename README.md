@@ -4,7 +4,7 @@ Projeto de conclusão do curso [BI-MASTER](https://ica.puc-rio.ai) e obtenção 
 
 #### Aluna: [Renata Regina da Fonseca Santos](https://github.com/rrfsantos)
 
-#### Orientadora: Professora Evelyn Conceição
+#### Orientadora: Professora Evelyn Batista
 
 #### Links para o código
 1. [Notebook para o download da base, divisão das imagens em 5 folds (treino e validação) e teste. Salva os folds em diretórios no Google Drive.](https://github.com/rrfsantos/Projeto-Redes-Neurais-OCT-Images/blob/main/OCT2017_pre_processamento_split_StratifiedKFold.ipynb)
