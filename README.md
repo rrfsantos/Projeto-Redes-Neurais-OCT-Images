@@ -1,6 +1,6 @@
 # Métodos automatizados para detectar e classificar doenças humanas a partir de imagens médicas
 
-Projeto de conclusão do curso [BI-MASTER](https://ica.puc-rio.ai) e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+Projeto de conclusão do curso [BI-MASTER]((https://ica.ele.puc-rio.br/) e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
 #### Aluna: [Renata Regina da Fonseca Santos](https://github.com/rrfsantos)
 
